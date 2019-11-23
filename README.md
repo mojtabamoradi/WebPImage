@@ -13,7 +13,7 @@
 ## DLL Requirement  
    after install package you must download two below dll and put it in the project folder.\
    [libwebp_x64.dll](https://github.com/mojtabamoradi/WebPImage/raw/master/Image.Webp/libwebp_x64.dll)\
-   [libwebp_x86.dll](https://github.com/mojtabamoradi/WebPImage/raw/master/Image.Webp/libwebp_x86.dll)\
+   [libwebp_x86.dll](https://github.com/mojtabamoradi/WebPImage/raw/master/Image.Webp/libwebp_x86.dll)
    
 ## usage
 
