@@ -10,7 +10,7 @@ namespace Moraba.Images.Webp
     /// <para>developed by mojtaba moradi (mojtabamoradi.net@outlook.com)</para>
     /// <para>inspired by Wrapper for WebP format in C#. (GPL) Jose M. Piñeiro</para>
     /// </summary>
-    public class Convert
+    public partial class Convert
     {
         /// <summary>resize the webp image</summary>
         /// <param name="sourcePath">valid source image path</param>
@@ -205,7 +205,7 @@ namespace Moraba.Images.Webp
         }
 
         /// <summary>convert webp image to jpeg and resize image</summary>
-        /// <param name="sourcePath">valid source image path</param>
+        /// <param name="sourceUrl">valid source image path</param>
         /// <param name="destPath">destination image path that saved image there</param> 
         /// <param name="width">width that image resized to them</param>
         /// <param name="height">height that image resized to them</param>
@@ -231,7 +231,7 @@ namespace Moraba.Images.Webp
         }
 
         /// <summary>convert webp image to png</summary>
-        /// <param name="sourcePath">valid source image path</param>
+        /// <param name="sourceUrl">valid source image path</param>
         /// <param name="destPath">destination image path that saved image there</param> 
         /// <param name="compress">compress image if that true</param>
         /// <returns>return true if do correctly else return false</returns>

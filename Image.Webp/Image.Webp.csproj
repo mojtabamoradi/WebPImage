@@ -8,16 +8,18 @@
     <Authors>Mojtaba Moradi (mojtabamoradi.net@outlook.com)</Authors>
     <Product>Moraba.Images.Webp.Core</Product>
     <Description>simple and light .netcore package for work with images.
-convert , resize and compress and jpeg, png and webp images.</Description>
+convert , resize and compress jpeg, png and webp images.
+convert from static path and web path.</Description>
     <Copyright>Mojtaba Moradi (mojtabamoradi.net@outlook.com) @ 2019</Copyright>
     <PackageProjectUrl>https://github.com/mojtabamoradi/WebPImage.git</PackageProjectUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/mojtabamoradi/Moraba/master/logo.png</PackageIconUrl>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/mojtabamoradi/WebPImage.git</RepositoryUrl>
-    <PackageTags>webp image,convert-jpeg-to-webp,convert-png-to-webp,convert-images,.netcore,c#</PackageTags>
-    <PackageReleaseNotes>on this version convert images from static path.</PackageReleaseNotes>
+    <PackageTags>convert image,webp image,webp images,convert-jpeg-to-webp,convert-png-to-webp,convert-images,.netcore,c#</PackageTags>
+    <PackageReleaseNotes>on this version convert images from web address.</PackageReleaseNotes>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>

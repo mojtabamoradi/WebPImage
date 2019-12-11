@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Moraba.Images.Webp.Core" Version="1.0.0" />
+    <PackageReference Include="Moraba.Images.Webp.Core" Version="1.1.0" />
   </ItemGroup>
 
 </Project>
